@@ -2,6 +2,8 @@
 
 10/5授業中に提出するもの。これをもって出席とする。
 
+https://classroom.github.com/a/JF2iMOfn
+
 1. profile.txtを編集して入力する。
 1. これをgithubのシステムを使って提出する。
 
